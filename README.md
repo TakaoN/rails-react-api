@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Ruby on Rails+ReactでCRUDを実装してみた
 
-Things you may want to cover:
+https://qiita.com/yoshimo123/items/9aa8dae1d40d523d7e5d
 
-* Ruby version ruby 2.4.4p296
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+を見ながら、作って見た。
